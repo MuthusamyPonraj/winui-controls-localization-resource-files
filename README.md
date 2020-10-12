@@ -1,1 +1,1 @@
-# Localization of Syncfusion WF controls using .resx files
+# Localization of Syncfusion WinUI controls using .resx files
